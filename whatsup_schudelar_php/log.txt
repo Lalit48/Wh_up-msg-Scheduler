@@ -1,0 +1,47 @@
+Phone: +91 7447258333, Message: hi, DateTime: 2025-04-13 19:07
+Phone: +91 7447258333, Message: hi, DateTime: 2025-04-13 19:14, Python Output: Scheduling message for +917447258333 at 2025-04-14 08:00: Hello!
+Message scheduled to be sent in 45960.637916 seconds.
+Phone: +917447258333, Message: hi, DateTime: 2025-04-13 19:21, Python Output: Scheduling message for +917447258333 at 2025-04-13 07:21: Hello!
+Scheduled time is in the past.
+Phone: +917447258333, Message: hi, DateTime: 2025-04-13 19:37, Python Output: Scheduling message for +917447258333 at 2025-04-13 07:21: Hello!
+Scheduled time is in the past.
+Phone: +91 7447258333, Message: hi, DateTime: 2025-04-13 19:38, Python Output: Scheduling message for +917447258333 at 2025-04-13 07:21: Hello!
+Scheduled time is in the past.
+Phone: "+917447258333", Message: "hi", DateTime: "2025-04-14 00:09", Python Output: Message scheduled for 0:9 to +917447258333
+In 12 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+917447258333", Message: "hi", DateTime: "2025-04-14 00:09", Python Output: Message scheduled for 0:9 to +917447258333
+In 14 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+917447258333", Message: "hi its lsk", DateTime: "2025-04-14 00:13", Python Output: Message scheduled for 0:13 to +917447258333
+Traceback (most recent call last):
+  File "app.py", line 39, in <module>
+    kit.sendwhatmsg(phone_number, message, hour, minute)
+NameError: name 'hour' is not defined
+Phone: "+917447258333", Message: "hi its lsk", DateTime: "2025-04-14 00:14", Python Output: Message scheduled for 0:14 to +917447258333
+Traceback (most recent call last):
+  File "app.py", line 39, in <module>
+    kit.sendwhatmsg(phone_number, message, hour, minute)
+NameError: name 'hour' is not defined
+Phone: "+917447258333", Message: "hi its lsk", DateTime: "2025-04-14 00:15", Python Output: Message scheduled for 0:15 to +917447258333
+Traceback (most recent call last):
+  File "app.py", line 39, in <module>
+    kit.sendwhatmsg(phone_number, message, hour, minute)
+NameError: name 'hour' is not defined
+Phone: "+917447258333", Message: "hi its lsk", DateTime: "2025-04-14 00:16", Python Output: Message scheduled for 0:16 to +917447258333
+In 38 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+919322671199", Message: "hi i am lalit", DateTime: "2025-04-14 00:19", Python Output: Message scheduled for 0:19 to +919322671199
+Error scheduling message: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+Phone: "+919322671199", Message: "hi i am lalit", DateTime: "2025-04-14 00:20", Python Output: Message scheduled for 0:20 to +919322671199
+In 19 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+919322671199", Message: "hi i am lalit", DateTime: "2025-04-14 00:20", Python Output: Message scheduled for 0:20 to +919322671199
+In 15 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+919322671199", Message: "hi i am lalit", DateTime: "2025-04-14 00:22", Python Output: Message scheduled for 0:22 to +919322671199
+In 31 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
+Phone: "+91 744 725 8333", Message: "hi i am lalit", DateTime: "2025-04-14 00:23", Python Output: Message scheduled for 0:23 to +91 744 725 8333
+In 2 Seconds WhatsApp will open and after 15 Seconds Message will be Delivered!
+Message scheduled successfully!
